@@ -3,14 +3,14 @@
 
 <h2>Sobre mim😊</h2>
 
- <p>&nbsp;&nbsp;&nbsp;Olá! Sou um <strong>Analista de Requisitos / Product Owner (PO)</strong>  com quase 4 anos de experiência na área de produto, dedicado a transformar conceitos em soluções digitais eficazes. Atuo na captura, análise e documentação de requisitos, além de liderar a definição de prioridades e o <strong>planejamento</strong>  estratégico dos produtos para garantir que atendam às <strong>necessidades</strong> tanto dos usuários quanto dos negócios.<p>
+ <p>&nbsp;&nbsp;&nbsp;Olá! Sou um <strong>Analista de Requisitos </strong> com quase 4 anos de experiência na área de produto. Meu foco é transformar conceitos em soluções digitais eficazes, capturando, analisando e documentando requisitos. Também tenho expertise na escrita de histórias de usuário e colaboro ativamente no planejamento estratégico dos produtos para garantir que atendam perfeitamente às necessidades dos usuários e dos negócios.
 
 
  <h2>Habilidades em Produto 📃</h2>
 
 
-  📝Definição e priorização de backlog de produto;<br>
-  ✏️ Planejamento estratégico de roadmap de produto;<br>
+  📝 Definição e escrita de histórias de usuário;<br>
+  ✏️ Experiência prática em gerenciar e controlar mudanças nos requisitos ao longo do ciclo de vida do projeto, assegurando a conformidade e a aprovação adequada;<br>
   🤝🏻 Colaboração eficaz com equipes multidisciplinares;<br>
   🧩 Garantia de alinhamento entre requisitos de negócios, tecnologia e usuários com foco na qualidade;<br>
   📈 Análise de métricas e feedback para iterar e melhorar continuamente os produtos.
